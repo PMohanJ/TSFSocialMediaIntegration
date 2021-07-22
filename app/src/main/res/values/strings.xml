@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="sign_in_using">Sign in using</string>
+    <string name="google">Google</string>
+    <string name="facebook">facebook</string>
+    <string name="sign_out">Sign out</string>
+    <string name="name">Name</string>
+    <string name="phoneNo">Phone number </string>
+    <string name="given_name">Given name</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="profile_id">Profile ID</string>
+    <string name="it_s_user_profile_picture">It\'s user profile picture</string>
+
+    <string name="facebook_app_id">6702322363118552</string>
+    <string name="fb_login_protocol_scheme">fb6702322363118552</string>
+    <string name="no_number">"Number not available"</string>
+    <string name="or">---------- or ----------</string>
+</resources>
